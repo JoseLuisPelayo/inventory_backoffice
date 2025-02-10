@@ -18,6 +18,6 @@ The Inventory Backoffice project offers a complete solution for inventory manage
 ## Technologies Used
 
 - **PHP** (94.5%)
-- **Hack** (4.4%)
-- **Other** (1.1%)
+- **JS** (4.4%)
+- **HTML, CSS...** (1.1%)
 - **Database**: MariaDB
